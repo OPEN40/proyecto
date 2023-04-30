@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "puntos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "nombre": "ESTADIO" }, "geometry": { "type": "Point", "coordinates": [ -78.476618, -0.177573 ] } },
+{ "type": "Feature", "properties": { "nombre": "PARQUE" }, "geometry": { "type": "Point", "coordinates": [ -78.484435, -0.183011 ] } },
+{ "type": "Feature", "properties": { "nombre": "PARQUE" }, "geometry": { "type": "Point", "coordinates": [ -78.464639077960896, -0.178370176644889 ] } },
+{ "type": "Feature", "properties": { "nombre": "PISTA" }, "geometry": { "type": "Point", "coordinates": [ -78.485108701644705, -0.187415745065766 ] } }
+]
+}
